@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    padding: 20px;
+    background-color: #ecdfdf;
+}
+header h3{
+    font-size: 30px;
+}
+header p{
+    opacity: 0.7;;
+}
+main{
+    margin: 0 12vw 0 12vw ;
+    background-color: #ddd9e8;
+    padding: 30px;
+    min-height: 100vh;
+}
+#about{
+    font-size: 30px;
+    padding: 5px;
+    margin: 30px;
+}
+#languages-known{
+    margin: 30px;
+}
+#projects{
+    margin: 30px;
+}
+#projects a{
+    text-decoration: none;
+}
+#experiences{
+    margin: 30px;
+}
+#education{
+    margin: 30px;
+}
+
+  
